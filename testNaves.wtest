@@ -1,0 +1,7 @@
+import naves.*
+describe "group of tests for naves" {
+
+  test "naves has x" {
+    assert.equals(1, 1)
+  }
+}
